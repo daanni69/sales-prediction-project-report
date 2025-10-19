@@ -1,0 +1,7 @@
+Python
+Numpy
+Pandas
+Plotly
+Joblib
+Sk-learn
+XGboost
